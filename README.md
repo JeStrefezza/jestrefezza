@@ -1,5 +1,5 @@
 ## Olá Seja bem vindo ao meu GitHub 
-Entisiasta em Tecnologia sempre na área de suporte em TI, migrando para progrmação e Cloud💭
+Entusiasta em Tecnologia na área de suporte em TI, migrando para progrmação e Cloud💭
 
 "Sou Jeferson, casado, papai do Ryan, evangélico, instrutor e músico de clarinete e clarone."
 Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como analista de Suporte. Hoje com algumas bagdes “distintivo” na Credly e Microsoft, em destaque AWS Cloud Practitioner.
@@ -23,11 +23,17 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
   <a href="https://www.linkedin.com/in/jestrefezza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
-
 ## Certificações
 <div style="display: inline_block">
     <img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
     <img align="center" alt="Welcome ServiceNow" height="100" width="80" src="https://nowlearning.servicenow.com/Credential%20Badge%20-%20Micro-Cert-%20Certified%20Welcome%20to%20ServiceNow.png">
 </div>
 
-
+## Linguagens e Ferramentas
+<div>
+ <p align="left"> 
+  
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+ </div>
