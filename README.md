@@ -8,11 +8,14 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
 - 💫 Em transição de carreira de Suporte em TI para Cloud e ServiceNow
 - 🌱 Estudando atualmente Cloud, Python, HTML, CSS e ServiceNow
 - 💻 Cloud, DevOps, ServiceNow
-- Veja meus badges "distintivos" <b>[Microsoft](https://learn.microsoft.com/pt-br/users/jestrefezza)</b>
-- Veja meus badges "distintivos" <b>[Credly](https://www.credly.com/users/jestrefezza)</b>
-- Veja meus badges "distintivos" <b>[ServiceNow](https://nowlearning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=jestrefezza)</b>
-## 
+- Veja meus badges "distintivos" 
+<div> 
+ <a href = "https://learn.microsoft.com/pt-br/users/jestrefezza"><img align="center" alt="Microsof" height="50" width="100"  src="https://t2.tudocdn.net/514858?w=646&h=284">
+ <a href = "https://www.credly.com/users/jestrefezza"><img align="center" alt="Credly" height="50" width="100" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg">  
+ <a href = "https://nowlearning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=jestrefezza"><img align="center" alt="Microsof" height="50" width="100"  src="https://www.globalsign.com/application/files/2216/7931/7447/ServiceNow_logo_RGB_White_YoumojiGreen.png">
+</div>
 
+## Contato
 <div> 
  <a href = "https://wa.me/5511983207887"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
  <a href = "mailto:je_info@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
