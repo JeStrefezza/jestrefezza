@@ -37,12 +37,11 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
 </div>
 
 ## Certificações
-<div style="display: inline_block">
+<div>
  <a href="https://www.credly.com/badges/163145e0-a46b-4a85-9aa6-cc11fbb43ffd" rel="noreferrer"><img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   <a href="https://verify.skilljar.com/c/znop6pe6pnbs" rel="noreferrer"><img align="center" alt="FinOps" height="100" width="100" src="https://raw.githubusercontent.com/JeStrefezza/jestrefezza/main/Badge%20FinOps.png">
   <a href="https://nowlearning.servicenow.com/lxp/en/now-platform/micro-certification-welcome-to-servicenow?id=learning_course_prev&course_id=938eb5358724d91cd3be437e0ebb3597" target="_blank" rel="noreferrer"><img align="center" alt="Welcome ServiceNow" height="100" width="80" target="_blank" src="https://nowlearning.servicenow.com/Credential%20Badge%20-%20Micro-Cert-%20Certified%20Welcome%20to%20ServiceNow.png">
  <a href="https://www.credly.com/badges/7c87d453-2d5f-46d4-8aec-b00b6d40cac1" rel="noreferrer"><img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png">
- 
  </div>
 
 
