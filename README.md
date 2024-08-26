@@ -4,6 +4,11 @@ Entusiasta em Tecnologia na área de suporte em TI, migrando para progrmação e
 "Sou Jeferson, casado, papai do Ryan, evangélico, instrutor e músico de clarinete e clarone."
 Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como analista de Suporte. Hoje com algumas bagdes “distintivo” na Credly e Microsoft, em destaque AWS Cloud Practitioner.
 
+## Veja meu CV
+<div> 
+  <a href = "https://drive.google.com/file/d/1AJAYkq5NWhmfmRlRdXv4FhfnNWc9-RGQ/view"><img align="center" alt="Microsof" height="50" width="50"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHTyDm05_UhlOt0H6HaqsmLnnPTf6oI_wggBZCD63JYumEZAlsmF-fxVowQKtSAbtuHQ&usqp=CAU">
+</div>
+
 ## Info
 - 💫 Em transição de carreira de Suporte em TI para Cloud e ServiceNow
 - 🌱 Estudando atualmente Cloud, Python, HTML, CSS e ServiceNow
@@ -14,7 +19,7 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
  <a href = "https://www.credly.com/users/jestrefezza"><img align="center" alt="Credly" height="50" width="100" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg">  
  <a href = "https://nowlearning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=jestrefezza"><img align="center" alt="Microsof" height="50" width="100"  src="https://www.globalsign.com/application/files/2216/7931/7447/ServiceNow_logo_RGB_White_YoumojiGreen.png">
 </div>
-
+     
 ## Contato
 <div> 
  <a href = "https://wa.me/5511983207887"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
