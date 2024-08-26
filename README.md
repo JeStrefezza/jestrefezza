@@ -30,9 +30,10 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
 
 ## Linguagens e Ferramentas
 <div>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+ <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="aws" width="50" height="50"/> 
  <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
 </div>
 
 ## Certificações
