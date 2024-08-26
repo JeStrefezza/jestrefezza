@@ -20,23 +20,20 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
  <a href = "https://wa.me/5511983207887"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
  <a href="https://www.linkedin.com/in/jestrefezza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:je_info@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:jefestrezza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:jefestrezza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
 ## Linguagens e Ferramentas
 <div>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+ <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
 </div>
 
 ## Certificações
 <div style="display: inline_block">
  <a href="https://www.credly.com/badges/163145e0-a46b-4a85-9aa6-cc11fbb43ffd" rel="noreferrer"><img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
-  
-  
-  
-  <a href="https://nowlearning.servicenow.com/lxp/en/now-platform/micro-certification-welcome-to-servicenow?id=learning_course_prev&course_id=938eb5358724d91cd3be437e0ebb3597" target="_blank" rel="noreferrer">  
+ <a href="https://nowlearning.servicenow.com/lxp/en/now-platform/micro-certification-welcome-to-servicenow?id=learning_course_prev&course_id=938eb5358724d91cd3be437e0ebb3597" target="_blank" rel="noreferrer">  
   <img align="center" alt="Welcome ServiceNow" height="100" width="80" target="_blank" src="https://nowlearning.servicenow.com/Credential%20Badge%20-%20Micro-Cert-%20Certified%20Welcome%20to%20ServiceNow.png">
 </div>
 
