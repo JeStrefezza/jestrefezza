@@ -1,5 +1,5 @@
 ## Olá! Seja bem vindo ao meu GitHub 
-Entusiasta em Tecnologia na área de suporte em TI, migrando para progrmação e Cloud💭
+Entusiasta em Tecnologia na área de suporte em TI, migrando para programação e Cloud💭
 
 "Sou Jeferson, casado, papai do Ryan, evangélico, instrutor e músico de clarinete e clarone."
 Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como analista de Suporte. Hoje com algumas bagdes “distintivo” na Credly e Microsoft, em destaque AWS Cloud Practitioner.
