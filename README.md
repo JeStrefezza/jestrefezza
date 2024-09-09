@@ -6,7 +6,7 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
 
 ## Veja meu CV
 <div> 
-  <a href = "https://drive.google.com/file/d/1AJAYkq5NWhmfmRlRdXv4FhfnNWc9-RGQ/view"><img align="center" alt="Microsof" height="50" width="50"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHTyDm05_UhlOt0H6HaqsmLnnPTf6oI_wggBZCD63JYumEZAlsmF-fxVowQKtSAbtuHQ&usqp=CAU">
+  <a href = "https://github.com/JeStrefezza/jestrefezza/blob/main/CV%20Jeferson%20Strefezza%20Mello.pdf"><img align="center" alt="Microsof" height="50" width="50"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHTyDm05_UhlOt0H6HaqsmLnnPTf6oI_wggBZCD63JYumEZAlsmF-fxVowQKtSAbtuHQ&usqp=CAU">
 </div>
 
 ## Info
