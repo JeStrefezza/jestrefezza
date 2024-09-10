@@ -29,12 +29,14 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
 </div> 
 
 ## Linguagens e Ferramentas
+   [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+   [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <div>
  <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" alt="aws" width="50" height="50"/> 
  <a href="https://azure.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
-</div>
+ </div>
 
 ## Certificações
 <div>
