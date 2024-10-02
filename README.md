@@ -14,6 +14,8 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
 - 🌱 Estudando atualmente Cloud, Python, HTML, CSS e ServiceNow
 - 💻 Cloud, DevOps, ServiceNow
 - Veja meus badges "distintivos" 
+
+## Badges
 <div> 
  <a href = "https://learn.microsoft.com/pt-br/users/jestrefezza"><img align="center" alt="Microsof" height="50" width="100"  src="https://t2.tudocdn.net/514858?w=646&h=284">
  <a href = "https://www.credly.com/users/jestrefezza"><img align="center" alt="Credly" height="50" width="100" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg">  
