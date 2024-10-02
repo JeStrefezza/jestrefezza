@@ -6,7 +6,7 @@ Carreira em desenvolvimento na área de TI, com mais de 15 anos atuando como ana
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Veja meu CV<br>
 <div> 
-  <a href = "https://onedrive.live.com/?cid=309CC78068062559&id=309CC78068062559%21s57412f37a2d641f78d563c5b702fe74f&parId=root&o=OneUp"><img align="center" alt="Microsof" height="50" width="50"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHTyDm05_UhlOt0H6HaqsmLnnPTf6oI_wggBZCD63JYumEZAlsmF-fxVowQKtSAbtuHQ&usqp=CAU">
+  <a href = "https://drive.google.com/file/d/1AJAYkq5NWhmfmRlRdXv4FhfnNWc9-RGQ/view"><img align="center" alt="Microsof" height="50" width="50"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHTyDm05_UhlOt0H6HaqsmLnnPTf6oI_wggBZCD63JYumEZAlsmF-fxVowQKtSAbtuHQ&usqp=CAU">
 </div>
 
 ## Info
